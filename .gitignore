@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
 
-/main
-/main_quiloader
+main.py
+main_quiloader.py
 .ipynb
 .vscode
 __pycache__/
