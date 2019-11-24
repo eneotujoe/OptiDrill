@@ -1,8 +1,5 @@
 # Byte-compiled / optimized / DLL files
-
-main.py
-main_quiloader.py
-.ipynb
+.DS_Store
 .vscode
 __pycache__/
 *.py[cod]
